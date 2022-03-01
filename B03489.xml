@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The suspence upon sixty six: or The astrologers prerogative. Reader, begin don't stop nor halt it, when you'av' read a line, press forward to the end; ...Deserving nought, but if you'l add to it, twill please him well to hear some can remit.</title>
+            <author>E. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03489</idno>
+            <idno type="STC">Wing G15</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[63]</idno>
+            <idno type="EEBO-CITATION">99886884</idno>
+            <idno type="PROQUEST">ocm99886884</idno>
+            <idno type="VID">181393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181393)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The suspence upon sixty six: or The astrologers prerogative. Reader, begin don't stop nor halt it, when you'av' read a line, press forward to the end; ...Deserving nought, but if you'l add to it, twill please him well to hear some can remit.</title>
+                  <author>E. G.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "You daily sluggards, you that view the skies".</note>
+                  <note>In two columns.</note>
+                  <note>Signed: E.G. Gent.</note>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political poetry, English --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181393:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>The ſuſpence upon SIXTY SIX:</head>
+            <head type="sub">OR THE Aſtrologers Prerogative.</head>
+            <argument>
+               <l>
+                  <hi>Reader,</hi> Begin don't ſtop nor halt it, when</l>
+               <l>You'av' read a Line, preſs forward to the end;</l>
+               <l>And if there wants diſcourſe your wits to pleaſe,</l>
+               <l>Blame not the Author, tis not his Diſeaſe;</l>
+               <l>If matter fails; your goodneſs will excuſe</l>
+               <l>His petty fault, rather commend his Muſe</l>
+               <l>Deſerving nought, but if you'l add to it,</l>
+               <l>Twill pleaſe him well to hear ſome can remit.</l>
+            </argument>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Y</seg>OU daily ſluggards, you that view the Skies</l>
+               <l>In'th ſilence of the Night; you thus preciſe,</l>
+               <l>That ſits to watch the ſhooting of one Star,</l>
+               <l>And then by computation to declare</l>
+               <l>All fleſh as graſs; The Plague ſhall ceaſe that Town,</l>
+               <l>This ſhall be free, that Land ſhall have renown.</l>
+               <l>This by invaſions ſuffer great diſtreſs,</l>
+               <l>No Remedy ſhall help, tis remed'leſs.</l>
+               <l>The <hi>Poliſh</hi> Troops ſhall in a civil War</l>
+               <l>This year engage to fight: The fiery Star</l>
+               <l>Northward the Pole, foreſpeaks it to be true,</l>
+               <l>Their faith will call it real; and not a few</l>
+               <l>Doth credite this; look farther yet and gaze</l>
+               <l>The Star in'th Eaſt brings peace, where no War was.</l>
+               <l>This year they'l ſay the <hi>Turks</hi> in <hi>Candia</hi> fight</l>
+               <l>With the <hi>Venetian,</hi> who to keep their right</l>
+               <l>Will give them Battel, and a total rout,</l>
+               <l>Until with new ſupplies they face about.</l>
+               <l>Thus plac't is their deſign, they'l never want</l>
+               <l>Succeſs to their reports, which makes them vaunt</l>
+               <l>In their deluſions; ſometimes a Wound</l>
+               <l>They'l plaiſter up, and ſwear their's not but ſound</l>
+               <l>This is to pleaſe, this is to favour what</l>
+               <l>Allows them this, from whom by favour got</l>
+               <l>Their Land is ſtill ſecur'd, no Wolf ſhall touch</l>
+               <l>A Lamb of this their Fold, the Heavens ſhews ſuch</l>
+               <l>No blaſt ſhall ſcorch their Corn, no mildews ſpoil</l>
+               <l>Their tender ſpring, but plenty ſhall recoil</l>
+               <l>From that which went before; no nipping froſt</l>
+               <l>Shall blite their Trees, their Land ſhall not be croſt.</l>
+               <l>Thus did they urge, when an unuſual Star</l>
+               <l>Approach't the Heavens, which made the Commons ſtare,</l>
+               <l>Yet ſoon appeas'd by theſe ſlye gazers on,</l>
+               <l>Who gave it out the <hi>Turks</hi> ſhould be undone.</l>
+               <l>We ſhould be clear, our State was not concern'd,</l>
+               <l>Though ſince, to'ur coſt, Bowels have often yern'd;</l>
+               <l>Some on our Friends, ſome on our Neighbours loſt,</l>
+               <l>Some on our own Eſtates, ſome on our Hoaſt.</l>
+               <l>Which of them all did e're the leaſt deſcribe</l>
+               <l>The raging Peſtilence thus to reſide</l>
+               <l>Within this Land, to have our Cities fild</l>
+               <l>With ſlain, as if it were whole Armies kill'd;</l>
+               <l>The Countrey had no leſs, the Fleet had ſome,</l>
+               <l>What could we think but that our final doom</l>
+               <l>Was near at hand? But thanks be to above</l>
+               <l>We'r yet a Nation; O lets joyn in love</l>
+               <l>And fight with courage 'gainſt our <hi>Belgian</hi> Foes,</l>
+               <l>Unleſs a grateful Peace they will compoſe;</l>
+               <l>Our Cauſe is good, how ſhould we want for aid,</l>
+               <l>When One above will help us being decay'd.</l>
+               <l>Where were theſe Watchmen when the War broke out</l>
+               <l>'Tween Us and <hi>France,</hi> ſurely they'd all the Gout,</l>
+               <l>They could not gaze, and ſo did not declare</l>
+               <l>The League 'tween <hi>Dutch</hi> and <hi>French</hi> 'gainſt whom we are</l>
+               <l>On their gouty limbs, not vext with that diſeaſe</l>
+               <l>The laſt foregoing year, being well at eaſe</l>
+               <l>They ſpoke of Sixty Six, and to defend</l>
+               <l>The certainty approv'd, do ſtill depend</l>
+               <l>On the ruine of the Pope; the Conclave they</l>
+               <l>Shall be diſſolv'd, no more the Pope obey:</l>
+               <l>What happens then within this compleat year,</l>
+               <l>Believing them, be ſure 'tis very rare.</l>
+            </lg>
+            <lg>
+               <l>Theſe are but tricks, be patient for a time,</l>
+               <l>Delay your judgment, you ſhall quickly find</l>
+               <l>What ten months will produce; if it appears</l>
+               <l>To be of wonder great, a Year of Years;</l>
+               <l>Then paſs your cenſure on theſe ſtarry men,</l>
+               <l>But let your reaſon ſway the hinder end;</l>
+               <l>That ſo your judgement may be fix't aright,</l>
+               <l>The Balance weighing equal none to light.</l>
+            </lg>
+            <byline>By <hi>E. G.</hi> Gent.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
